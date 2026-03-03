@@ -23,7 +23,7 @@ Anthropic Skill Builder guides you through creating well-structured skills that:
 ```bash
 # For OpenClaw users
 cd ~/.openclaw/skills
-git clone https://github.com/YOUR_USERNAME/anthropic-skill-builder.git
+git clone https://github.com/llh315434220/anthropic-skill-builder.git
 
 # Restart OpenClaw gateway
 openclaw gateway restart
@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/anthropic-skill-builder/issues)
+- **Issues**: [GitHub Issues](https://github.com/llh315434220/anthropic-skill-builder/issues)
 - **Discord**: [OpenClaw Community](https://discord.com/invite/clawd)
 - **Documentation**: [OpenClaw Docs](https://docs.openclaw.ai)
 

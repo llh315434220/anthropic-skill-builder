@@ -72,4 +72,4 @@ We use Semantic Versioning (MAJOR.MINOR.PATCH):
 
 ---
 
-[1.0.0]: https://github.com/YOUR_USERNAME/anthropic-skill-builder/releases/tag/v1.0.0
+[1.0.0]: https://github.com/llh315434220/anthropic-skill-builder/releases/tag/v1.0.0
